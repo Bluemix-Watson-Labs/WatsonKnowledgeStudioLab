@@ -302,6 +302,10 @@ By completing this tutorial, you learned about the following concepts:
 - Human annotation tasks
 - Inter-annotator agreement and adjudication
 
+### Best Practices 
+
+** https://medium.com/@juliacloudai/watson-knowledge-studio-tips-tricks-60466df0a204
+
 ### References
 
 1) https://cloud.ibm.com/docs/services/watson-knowledge-studio?topic=watson-knowledge-studio-wks_tutintro
