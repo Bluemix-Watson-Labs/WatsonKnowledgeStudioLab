@@ -1,6 +1,5 @@
 # WatsonKnowledgeStudioLab
-WKS lab 
-
+WKS lab edited from the main documentation page. Link found in references below. 
 
 # Creating a machine learning model
 
@@ -302,3 +301,7 @@ By completing this tutorial, you learned about the following concepts:
 - Machine learning models
 - Human annotation tasks
 - Inter-annotator agreement and adjudication
+
+### References
+
+1) https://cloud.ibm.com/docs/services/watson-knowledge-studio?topic=watson-knowledge-studio-wks_tutintro
