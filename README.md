@@ -1,5 +1,5 @@
 # WatsonKnowledgeStudioLab
-WKS lab edited from the main documentation page. Link found in references below. 
+WKS lab edited from the [main documentation page](https://cloud.ibm.com/docs/services/watson-knowledge-studio?topic=watson-knowledge-studio-wks_tutintro)
 
 # Creating a machine learning model
 
