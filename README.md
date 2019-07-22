@@ -294,7 +294,9 @@ By completing this tutorial, you learned about the following concepts:
 
 ### Best Practices 
 
-** https://medium.com/@juliacloudai/watson-knowledge-studio-tips-tricks-60466df0a204
+1. https://medium.com/@juliacloudai/watson-knowledge-studio-tips-tricks-60466df0a204
+
+2. https://medium.com/@jasantovi/5-things-to-consider-before-you-jump-start-a-watson-knowledge-studio-model-781f21a366bb
 
 ### References
 
