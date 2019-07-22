@@ -20,12 +20,10 @@ This tutorial takes approximately 60 minutes to finish. If you explore other con
 ## Before you begin
 
 - You're using a supported browser. See [Browser requirements](/docs/services/watson-knowledge-studio?topic=watson-knowledge-studio-system-requirements).
-- You successfully completed [Getting started with {{site.data.keyword.knowledgestudioshort}}](/docs/services/watson-knowledge-studio?topic=watson-knowledge-studio-wks_tutintro), which covers creating a workspace, creating a type system, and adding a dictionary.
+- You successfully completed [Getting started with Watson Knowledge Studio](https://cloud.ibm.com/docs/services/watson-knowledge-studio?topic=watson-knowledge-studio-wks_tutintro) which covers creating a workspace, creating a type system, and adding a dictionary.
 - You must have at least one user ID in either the Admin or Project Manager role.
 
-    > **Note:** If possible, use multiple user IDs for the machine learning model tasks in this tutorial (one Admin or Project Manager user ID, and at least two Human Annotator user IDs). Using multiple user IDs provides the most realistic simulation of an actual {{site.data.keyword.knowledgestudiofull}} workspace, where a project manager must coordinate and adjudicate annotation that is performed by multiple human annotators. However, if you have access to only a single user ID, you can still simulate most parts of the process.
-
-    For information about user roles, see [User roles in {{site.data.keyword.knowledgestudioshort}}](/docs/services/watson-knowledge-studio?topic=watson-knowledge-studio-roles).
+    > **Note:** If possible, use multiple user IDs for the machine learning model tasks in this tutorial (one Admin or Project Manager user ID, and at least two Human Annotator user IDs). Using multiple user IDs provides the most realistic simulation of an actual workspace, where a project manager must coordinate and adjudicate annotation that is performed by multiple human annotators. However, if you have access to only a single user ID, you can still simulate most parts of the process.
 
 ## Results
 
@@ -33,7 +31,6 @@ After completing this tutorial, you will have a custom machine learning model th
 
 ## Lesson 1: Adding documents for annotation
 
-{: #tut_lessml1}
 In this lesson, you will learn how to add documents to a workspace that can be annotated by human annotators.
 
 ### About this task
@@ -53,17 +50,15 @@ In this lesson, you will learn how to use a dictionary-based annotator to pre-an
 
 ### About this task
 
-
 Pre-annotating documents is an optional step. However, it is a worthwhile step because it makes the job of human annotators easier later.
 
 For more information about pre-annotation with dictionaries, see [Pre-annotating documents with a dictionary](/docs/services/watson-knowledge-studio?topic=watson-knowledge-studio-preannotation#wks_preannot).
 
 ### Procedure
 
-
 1. Within your workspace, click **Assets** > **Dictionaries**.
 
-  The `Test dictionary` dictionary opens. The [Adding a dictionary](/docs/services/watson-knowledge-studio?topic=watson-knowledge-studio-wks_tutintro#wks_tutless4) lesson of the *Getting started with {{site.data.keyword.knowledgestudioshort}}* tutorial shows how to create this dictionary.
+  The `Test dictionary` dictionary opens. 
 
 1. From the **Entity type** list, select the `ORGANIZATION` entity type to map it to the `Test dictionary` dictionary.
 
@@ -79,7 +74,7 @@ The documents in the selected sets are pre-annotated by using the dictionary tha
 
 ## Lesson 3: Creating an annotation task
 
-In this lesson, you will learn how to create annotation sets and use annotation tasks to track the work of human annotators in {{site.data.keyword.knowledgestudioshort}}.
+In this lesson, you will learn how to create annotation sets and use annotation tasks to track the work of human annotators.
 
 ### About this task
 
