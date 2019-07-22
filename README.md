@@ -33,10 +33,6 @@ After completing this tutorial, you will have a custom machine learning model th
 
 In this lesson, you will learn how to add documents to a workspace that can be annotated by human annotators.
 
-### About this task
-
-For more information about adding documents, see [Adding documents to a workspace](/docs/services/watson-knowledge-studio?topic=watson-knowledge-studio-documents-for-annotation#wks_projadd).
-
 ### Procedure
 
 1. Download the <a target="_blank" href="https://watson-developer-cloud.github.io/doc-tutorial-downloads/knowledge-studio/documents-new.csv" download>`documents-new.csv`
@@ -52,7 +48,7 @@ In this lesson, you will learn how to use a dictionary-based annotator to pre-an
 
 Pre-annotating documents is an optional step. However, it is a worthwhile step because it makes the job of human annotators easier later.
 
-For more information about pre-annotation with dictionaries, see [Pre-annotating documents with a dictionary](/docs/services/watson-knowledge-studio?topic=watson-knowledge-studio-preannotation#wks_preannot).
+For more information about pre-annotation with dictionaries, see [pre-annotating documents with a dictionary](https://cloud.ibm.com/docs/services/watson-knowledge-studio?topic=watson-knowledge-studio-preannotation#wks_preannot).
 
 ### Procedure
 
@@ -81,8 +77,6 @@ In this lesson, you will learn how to create annotation sets and use annotation 
 An *annotation set* is a subset of documents from an uploaded document set that you assign to a human annotator. The human annotator annotates the documents in the annotation set. To later use inter-annotator scores to compare the annotations that are added by each human annotator, you must assign at least two human annotators to different annotation sets. You must also specify that some percentage of documents overlap between the sets.
 
 > **Note:** In a realistic scenario, you would create as many annotation sets as needed, based on the number of human annotators who are working in the workspace. In this tutorial, you will create two annotation sets. If you do not have access to multiple user IDs, you can assign both annotation sets to the same user.
-
-For more information about annotation sets and annotation tasks, see [Creating an annotation task](/docs/services/watson-knowledge-studio?topic=watson-knowledge-studio-annotate-documents#wks_hatask).
 
 ### Procedure
 
