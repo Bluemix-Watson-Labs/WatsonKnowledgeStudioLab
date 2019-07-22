@@ -39,7 +39,7 @@ For more information about adding documents, see [Adding documents to a workspac
 
 ### Procedure
 
-1. Download the <a target="_blank" href="https://watson-developer-cloud.github.io/doc-tutorial-downloads/knowledge-studio/documents-new.csv" download>`documents-new.csv` <img src="../../icons/launch-glyph.svg" alt="External link icon" title="External link icon" class="style-scope doc-content"></a> file to your computer. This file contains example documents suitable for uploading.
+1. Download the <a target="_blank" href="https://watson-developer-cloud.github.io/doc-tutorial-downloads/knowledge-studio/documents-new.csv" download>`documents-new.csv`. This file contains example documents suitable for uploading.
 1. Within your workspace, click **Assets** > **Documents**.
 1. On the Documents page, click **Upload Document Sets**.
 1. Upload the `documents-new.csv` file from your computer. The uploaded file is displayed in the table.
