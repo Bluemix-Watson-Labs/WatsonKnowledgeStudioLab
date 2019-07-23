@@ -292,6 +292,10 @@ By completing this tutorial, you learned about the following concepts:
 - Human annotation tasks
 - Inter-annotator agreement and adjudication
 
+### Tutorials - Create WKS Model and Deploy to Watson Discovery or NLU 
+
+1. https://www.ibm.com/cloud/garage/dte/tutorial/wks-tutorial
+
 ### Best Practices 
 
 1. https://medium.com/@juliacloudai/watson-knowledge-studio-tips-tricks-60466df0a204
