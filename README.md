@@ -296,6 +296,10 @@ By completing this tutorial, you learned about the following concepts:
 
 1. https://www.ibm.com/cloud/garage/dte/tutorial/wks-tutorial
 
+### Tutorial - Watson Discovery 
+
+1.  https://cloud.ibm.com/docs/services/discovery?topic=discovery-getting-started&origin_team=T02J3DPUE#getting-started 
+
 ### Best Practices 
 
 1. https://medium.com/@juliacloudai/watson-knowledge-studio-tips-tricks-60466df0a204
